@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dennis Roth</h1>
-<h3 align="center">I am a Software-engineer/DevOps-engineer at a company in Baden-Württemberg in Germany </h3>
+<h3 align="center">I am a Software-engineer/DevOps-engineer from a company in Baden-Württemberg in Germany </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeRo1337&label=Profile%20views&color=0e75b6&style=flat" alt="DeRo1337" /> </p>
 
